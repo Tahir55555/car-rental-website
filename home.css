@@ -1,0 +1,165 @@
+.header-wrap{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   text-align: center; 
+}
+.logo{
+    font-weight: 500;
+    font-size: 60;
+    text-transform: uppercase;
+    text-shadow: 5px;
+}
+.link-wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center; 
+
+}
+.link{
+    text-decoration: none;
+    color: black;
+    /* width: 50%; */
+}
+.boady{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center; 
+}
+.top-btn{
+    color: white;
+    background-color: #1a1e23;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 7vh;
+    cursor: pointer;
+}
+.text{
+    font-weight: 500;
+    font-size: 70;
+}
+.btn2{
+    color: white;
+    background-color:blue;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    height: 7vh;
+    cursor: pointer;
+}
+.about{
+    text-decoration: none;
+    color: blueviolet;
+}
+.tag{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;  
+}
+.img2{
+    position: relative;
+    width: 60%;
+    height: 59vh;
+}
+.body-2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: start;
+}
+.slice{
+    padding: 10px 20px;
+}
+.middle-text{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.body-3{
+    background-color: black;
+    height: 70vh;
+    padding: 10px 20px;
+}
+.text-3{
+    color: white;
+    font-size: 100;
+    font-weight: 500;
+}
+.grid-wrap{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+.grid{
+    width: 40%;
+    box-shadow: 0 0 20px rgb(0 0 0 /10%);
+    height: 50vh;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 10px 20px;
+
+}
+.c-text{
+    color: blue;
+    align-items: center;
+    text-align: center;
+}
+.head{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    border-bottom: #1a1e23;
+    width: 95%;
+}
+.cars{
+    width: 90%;
+    height: 30vh;
+    position: relative;
+    padding: 10px;
+}
+.book-btn{
+    color: black;
+    background-color: #ccc;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 260px;
+    cursor: pointer;
+    height: 7vh;
+}
+.car-text{
+    text-align: left;
+}
+.footer-text{
+    font-weight: 500;
+    font-size: 80;
+    color: white;
+    align-items: center;
+    text-align: center ;
+}
+.footer{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    height: 45vh;
+
+}
+.wrap{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    text-align:center ;
+}
